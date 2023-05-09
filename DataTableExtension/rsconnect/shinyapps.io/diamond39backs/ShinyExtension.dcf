@@ -1,0 +1,14 @@
+name: ShinyExtension
+title: ShinyExtension
+username:
+account: diamond39backs
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9040136
+bundleId: 7194759
+url: https://diamond39backs.shinyapps.io/ShinyExtension/
+when: 1683643988.24862
+lastSyncTime: 1683643988.24863
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|AwesomeText.R|logo.png|Tableau_Table_Download.R
