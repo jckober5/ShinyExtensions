@@ -1,0 +1,66 @@
+Name,expense,type,breakfast,Different,SitDown,Description,address
+Bombay House,affordable,Indian,0,1,1,"Outpost of a revered local chain serving traditional Indian fare, beer & wine in a buzzy atmosphere.","463 N University Ave, Provo, UT 84601, USA"
+Ruby River Steakhouse,affordable,American,0,0,1,"Rustic eatery serving aged, USDA Choice steaks & traditional sides alongside a cozy rock fireplace.","1454 S University Ave, Provo, UT 84601, USA"
+Brick Oven,affordable,Italian,0,0,1,"Flagship of a pizzeria chain serving all-you-can-eat pasta, soup & salad, plus signature root beer.","111 E 800 N, Provo, UT 84606, USA"
+Black Sheep Cafe,expensive,American,0,1,1,Contemporary Southwestern Native American cooking served with a full bar in an upscale-casual space.,"19 N University Ave, Provo, UT 84601, USA"
+Communal,expensive,American,0,1,1,"The rustic American restaurant Communal offers a variety of dishes using fresh, seasonal ingredients. The service is excellent and the chefs are very friendly and approachable. Food is delicious and the atmosphere is comfortable and inviting.","102 N University Ave, Provo, UT 84601, USA"
+Station 22,affordable,American,0,1,1,"Casual eatery serving updated American classics, sandwiches & veggie options in a unique atmosphere.","22 W Center St, Provo, UT 84601, USA"
+La Jolla Groves,expensive,Seafood,0,1,1,"Serene eatery with European atmosphere & a lemon-tree theme, offering a globally influenced menu.","4801 N University Ave #610, Provo, UT 84604, USA"
+Café Zupas,affordable,Sandwich ,0,0,1,"Counter-serve local chain serving hearty soups, innovative salads & diverse sandwiches.","408 W 2230 N, Provo, UT 84604, USA"
+India Palace,affordable,Indian,0,1,1,Northern Indian specialties & a popular lunch buffet are served amid traditional decor.,"98 W Center St, Provo, UT 84601, USA"
+Olive Garden Italian Restaurant,affordable,Italian,0,0,1,"Lively, family-friendly chain featuring Italian standards such as pastas & salads.","504 W 2230 N, Provo, UT 84604, USA"
+Sizzler,affordable,American,0,0,1,"Longtime casual restaurant known for its steak, burgers & seafood, plus a salad bar.","1385 S University Ave, Provo, UT 84601, USA"
+The Foundry Grill,expensive,American,0,1,1,"Woody, elegant Sundance Resort destination with mountain views & upscale, renowned American cuisine.","8841 N Alpine Lp Rd, Sundance, UT 84604, USA"
+La Dolce Vita Ristorante Italiano,affordable,Italian,0,1,1,"Neapolitan-style eatery serving pizza, pasta & entrees in a welcoming space with old-school decor.","61 N 100 E, Provo, UT 84606, USA"
+Joe Vera's Mexican Restaurant,affordable,Mexican,0,1,1,"Familiar homestyle Mexican dishes offered in a relaxed atmosphere with beer, wine & cocktails.","201 W Center St, Provo, UT 84601, USA"
+Red Robin Gourmet Burgers and Brews,affordable,American,0,0,1,Chain for gourmet burgers & other American comfort fare.,"1200 Towne Centre Blvd Suite 1100, Provo, UT 84601, USA"
+SLABpizza,affordable,Italian,0,1,1,Really big slices of really great pizza,"671 E 800 N, Provo, UT 84606, USA"
+Chuck-A-Rama Buffet,affordable,Buffet,0,0,1,"Regional chain known for its comfort-food buffet, global daily specials & free nonalcoholic drinks.","1081 S University Ave, Provo, UT 84601, USA"
+Happy Sumo,affordable,Asian,0,1,1,"Sophisticated Asian bistro offering both traditional Japanese fare & modern, innovative sushi rolls.","4801 N University Ave, Provo, UT 84604, USA"
+El Gallo Giro,cheap,Mexican,0,1,0,"Quaint Mexican grill with patio seating preparing tortas, street tacos & classic entrees.","346n N University Ave, Provo, UT 84601, USA"
+Nico's Pizza,affordable,Italian,0,1,1,"Informal counter-service shop specializing in Boston-style pizza, plus other casual Italian food.","255 Cougar Blvd, Provo, UT 84604, USA"
+Magleby's Fresh,affordable,American,1,0,1,"Local chain serving breakfast, sandwiches & New American entrees in a relaxed, stylish setting.","3362 N University Ave, Provo, UT 84604, USA"
+Malawi's Pizza Provo Riverwoods,affordable,Italian,0,1,1,Woodsy-chic counter-serve pizza parlor where portions of the proceeds go to African children.,"4801 N University Ave STE #110, Provo, UT 84604, USA"
+Spicy Thai,cheap,Asian,0,1,1,"Casual, family-owned kitchen serving spiced-to-order Thai curries, noodles, rice dishes & salads.","3230 N University Ave, Provo, UT 84604, USA"
+Shoots Chinese Restaurant,affordable,Asian,0,1,1,"Cozy, relaxed eatery in a shopping center offering Chinese bites, plus lunch specials & kids' meals.","4801 N University Ave, Provo, UT 84604, USA"
+Village Inn,cheap,American,1,0,1,Family-friendly chain serving homestyle American classics such as chicken-fried steak & pot pie.,"933 S University Ave, Provo, UT 84606, USA"
+Two Jack's Pizza,affordable,Italian,0,0,1,"Hand-tossed pies join pasta dishes, calzones & wings at this casual, counter-serve pizza parlor.","80 W Center St, Provo, UT 84601, USA"
+Sensuous Sandwich,cheap,American,0,1,1,"We've always been committed to a great sandwich, served with a smile.","163 W Center St, Provo, UT 84601, USA"
+El Salvador Restaurant,cheap,Mexican,0,1,1,"Generous plates of Salvadoran comfort fare draws crowds to this pint-sized, family-owned restaurant.","332 W Center St, Provo, UT 84601, USA"
+Thai Village,affordable,Asian,0,1,1,"The Thai Village offers a wide selection of traditional Thai plates and lunch specials. The food is consistently delicious and the service is friendly. The restaurant has beautiful presentation, with swans made out of apples, a flower made out of a radish, and cool carrots made into an edible sculpture. The food was amazing, with pumpkin curry being my favorite dish. I would highly recommend Thai Village to anyone looking for an enjoyable dining experience!","208 W Main St, American Fork, UT 84003, USA"
+The Pizza Factory,affordable,Italian,0,0,1,"Local chain serving traditional, deep-dish & thin-crust pizzas, plus pasta, in a relaxed setting.","291 West 400 North, State St, Lindon, UT 84042, USA"
+Wild Ginger,affordable,Asian,0,1,1,"Nigiri, rolls & Chinese entrees in a roomy, simple dining room with table or sushi-bar seating.","366 N University Ave, Provo, UT 84601, USA"
+Saigon Café,cheap,Asian,0,0,1,"Hearty portions of Asian-inspired fare for a bargain in a modest, no-frills space.","440 W 300 S, Provo, UT 84601, USA"
+Molly's,cheap,American,0,1,1,"American comfort food from barbecue sandwiches to classic entrees in a homey, cafeteria-style space.","753 W Columbia Ln, Provo, UT 84604, USA"
+Rodizio Grill - Provo,expensive,Brazilian,0,0,1,"Outpost of a Brazilian steakhouse chain offering skewered meats carved tableside, plus a salad bar.","4801 N University Ave, Provo, UT 84604, USA"
+Block Restaurant,expensive,American,0,1,1,"An open kitchen turns out refined American plates fueled by seasonal, locally sourced ingredients.","3330 N University Ave, Provo, UT 84604, USA"
+Osaka,cheap,Asian,0,1,1,Storefront Japanese eatery serving sushi as well as a roundup of Chinese & Thai dishes.,"46 W Center St, Provo, UT 84601, USA"
+Se Llama Peru,affordable,Seafood,0,1,1,Our chefs will take you on an adventure which will delight your taste buds. Drop for a belly-filled and memorable culinary adventure!,"368 W Center St, Provo, UT 84601, USA"
+Sam Hawk,affordable,Asian,0,1,1,No-frills strip-mall outpost specializing in traditional Korean dishes like bulgogi & kalbi.,"684 N Freedom Blvd, Provo, UT 84601, USA"
+WINGERS Restaurant,affordable,American,0,0,1,"Roadhouse-style chain serving wings, burgers & hearty comfort-food plates, plus craft beers.","1200 Towne Centre Blvd #1096, Provo, UT 84601, USA"
+Kyoto,affordable,Asian,0,1,1,"Casual, dinner-only Japanese restaurant featuring tableside teppanyaki chefs & a sushi menu.","992 S University Ave, Provo, UT 84601, USA"
+El Mexsal,cheap,Mexican,0,1,1,"A simple, colorful spot serving Mexican & Salvadoran specialties, like pupusas, chile verde & tacos.","325 S 200 W, Provo, UT 84601, USA"
+Slate Restaurant,affordable,American,0,1,1,"Hotel restaurant serving steaks, seafood & other traditional American meals in a contemporary space.","101 W 100 N, Provo, UT 84601, USA"
+Four Seasons Hot Pot & Dumplings,affordable,Asian,0,1,1,Low-key restaurant offering Chinese hot pots & dumplings in a modestly appointed dining room.,"236 N University Ave, Provo, UT 84601, USA"
+Panda Express,cheap,Asian,0,0,0,"Fast-food chain for Chinese standards, including some health-conscious options.","1240 N University Ave B, Provo, UT 84604, USA"
+Costa Vida,affordable,Mexican,0,0,0,"Laid-back counter-serve Mexican chain with Baja-style tacos & burritos, plus gluten-free options.","1200 N University Ave, Provo, UT 84606, USA"
+Denny's,cheap,American,1,0,1,"Casual diner chain dishing up classic American comfort fare, including all-day breakfast favorites.","1680 Freedom Blvd 200 W, Provo, UT 84601, USA"
+Great Harvest Bread Co.,affordable,American,0,1,1,Bakery chain specializing in whole-grain breads & muffins made with Montana wheat.,"1774 N University Pkwy #48, Provo, UT 84604, USA"
+Brasas Mexican Grill,cheap,Mexican,0,1,1,Tacos & other Mexican bites round out the menu at this open-air counter serve with covered seating.,"238 W 100 S, Provo, UT 84601, USA"
+The Great Steak Grill,cheap,American,0,1,1,"Fresh made steak sandwiches, shakes, chicken fried steak, ribs, etc","1650 W Center St, Provo, UT 84601, USA"
+L&L Hawaiian Barbecue - Provo,cheap,American,0,1,1,Island-themed fast-food chain whose menu features traditional Hawaiian plate lunches.,"158 Cougar Blvd, Provo, UT 84604, USA"
+Chick-fil-A,cheap,American,0,0,0,Fast-food chain for chicken sandwiches,484 Cougar Blvd
+Sonic Drive-In,cheap,American,0,0,0,Fast-food burger chain with retro flair,1296 N State St
+Burgers Supreme,cheap,American,0,1,0,Simple eatery with burgers & fried fare,1796 N University Pkwy
+Wendy's,cheap,American,1,0,0,Fast-food burger chain,122 E 1230 N St
+Raising Cane's Chicken Fingers,cheap,American,0,1,0,Fast-food chain for fried chicken combos,132 W 1230 N St
+Carl's Jr.,cheap,American,1,0,0,Fast-food chain for jumbo burger meals,344 W 1230 N
+Taco Bell,cheap,Mexican,0,0,0,Mexican-inspired fast-food chain,433 900 E
+McDonald's,cheap,American,1,0,0,Iconic fast-food burger & fries chain,1225 S University Ave
+Chick-fil-A,cheap,American,0,0,0,Fast-food chain for chicken sandwiches,"Brigham Young University, Ernest L. Wilkinson Student Center, Cougareat Food Court"
+Arby's,cheap,American,0,0,0,Fast-food chain with deli sandwiches,1474 S 40 E
+Burger King,cheap,American,1,0,0,American-based multinational chain of hamburger fast food restaurants.,1080 S University Ave
+The Habit Burger Grill (Drive-Thru),cheap,American,0,1,0,"Charbroiled burgers star at this fast-food chain also offering deli-type sandwiches, salads & fries.",2245 N University Pkwy
+A&W Restaurant,cheap,American,0,1,0,Fast-food chain for burgers & root beer,1034 S University Ave
+Arby's,cheap,American,0,0,0,Fast-food chain with deli sandwiches,210 W 1230 N St
+J.Dawgs,cheap,American,0,1,0,Serves a variety of Hot Dogs and an over-the-top experience from the moment you walk in.,858 700 E

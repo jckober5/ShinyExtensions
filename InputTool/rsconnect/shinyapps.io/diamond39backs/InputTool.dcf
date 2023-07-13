@@ -1,0 +1,14 @@
+name: InputTool
+title: InputTool
+username:
+account: diamond39backs
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9117244
+bundleId: 7260719
+url: https://diamond39backs.shinyapps.io/InputTool/
+when: 1684990857.35456
+lastSyncTime: 1684990857.35458
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: mySQLConnection.R

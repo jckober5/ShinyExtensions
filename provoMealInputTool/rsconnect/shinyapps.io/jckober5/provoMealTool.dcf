@@ -1,0 +1,14 @@
+name: provoMealTool
+title: provoMealTool
+username:
+account: jckober5
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9215747
+bundleId: 7282412
+url: https://jckober5.shinyapps.io/provoMealTool/
+when: 1685462510.12242
+lastSyncTime: 1685462510.12243
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: www/logo.png

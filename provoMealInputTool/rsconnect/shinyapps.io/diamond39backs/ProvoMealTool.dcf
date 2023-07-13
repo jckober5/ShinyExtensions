@@ -1,0 +1,14 @@
+name: ProvoMealTool
+title: ProvoMealTool
+username:
+account: diamond39backs
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9194603
+bundleId: 7268644
+url: https://diamond39backs.shinyapps.io/ProvoMealTool/
+when: 1685124347.6291
+lastSyncTime: 1685124347.62911
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: www/logo.png
